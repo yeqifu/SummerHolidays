@@ -8,9 +8,9 @@ public class Demo04 {
 		Work w2=new Work("5", "前台收银");
 		
 		Work w3=w1;
-		System.out.println("w1的hasCode"+w1.hashCode());
-		System.out.println("w1的hasCode"+w2.hashCode());
-		System.out.println("w1的hasCode"+w3.hashCode());
+		System.out.println("w1的hashCode"+w1.hashCode());
+		System.out.println("w1的hashCode"+w2.hashCode());
+		System.out.println("w1的hashCode"+w3.hashCode());
 	}
 
 }
