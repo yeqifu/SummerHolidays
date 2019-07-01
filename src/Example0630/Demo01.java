@@ -2,6 +2,10 @@ package Example0630;
 
 public class Demo01 {
 	public static void main(String[] args) {
+		
+		//Class这个类描述类的结构
+		//Class描述一个类的类名、属性、方法、构造方法
+		
 		Animal dog = new Dog();
 		Class cla=dog.getClass();
 		
